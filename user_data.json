@@ -1,0 +1,151 @@
+{
+    "users": {
+        "new_user": "987",
+        "Anshu": "1234",
+        "user2": "1234",
+        "Bhavani": "456"
+    },
+    "token_logs": {
+        "new_user": [
+            {
+                "filename": "sample_agreement (1).docx",
+                "token_usage": {
+                    "input_tokens": 264,
+                    "output_tokens": 291,
+                    "total_tokens": 555
+                },
+                "date": "2025-08-22"
+            },
+            {
+                "filename": "Termination-Agreement--Florida--1-1.jpg",
+                "token_usage": {
+                    "input_tokens": 447,
+                    "output_tokens": 643,
+                    "total_tokens": 1090
+                },
+                "date": "2025-08-22"
+            },
+            {
+                "filename": "Agreement2.pdf",
+                "token_usage": {
+                    "input_tokens": 7400,
+                    "output_tokens": 1155,
+                    "total_tokens": 8555
+                },
+                "date": "2025-08-22"
+            }
+        ],
+        "Anshu": [
+            {
+                "filename": "software_license_agreement.docx",
+                "token_usage": {
+                    "input_tokens": 344,
+                    "output_tokens": 361,
+                    "total_tokens": 705
+                },
+                "date": "2025-08-22"
+            }
+        ],
+        "user2": [
+            {
+                "filename": "software_license_agreement.docx",
+                "token_usage": {
+                    "input_tokens": 344,
+                    "output_tokens": 344,
+                    "total_tokens": 688
+                },
+                "date": "2025-08-22"
+            },
+            {
+                "filename": "non_disclosure_agreement_template1.jpg",
+                "token_usage": {
+                    "input_tokens": 315,
+                    "output_tokens": 369,
+                    "total_tokens": 684
+                },
+                "date": "2025-08-22"
+            },
+            {
+                "filename": "Agreement2.pdf",
+                "token_usage": {
+                    "input_tokens": 7400,
+                    "output_tokens": 1288,
+                    "total_tokens": 8688
+                },
+                "date": "2025-08-25"
+            },
+            {
+                "filename": "consulting_agreement.docx",
+                "token_usage": {
+                    "input_tokens": 266,
+                    "output_tokens": 302,
+                    "total_tokens": 568
+                },
+                "date": "2025-08-25"
+            }
+        ],
+        "Bhavani": [
+            {
+                "filename": "consulting_agreement.docx",
+                "token_usage": {
+                    "input_tokens": 266,
+                    "output_tokens": 298,
+                    "total_tokens": 564
+                },
+                "date": "2025-08-25"
+            },
+            {
+                "filename": "Termination-Agreement--Florida--1-1.jpg",
+                "token_usage": {
+                    "input_tokens": 447,
+                    "output_tokens": 671,
+                    "total_tokens": 1118
+                },
+                "date": "2025-08-25"
+            }
+        ]
+    },
+    "daily_usage": {
+        "2025-08-22": {
+            "Anshu": {
+                "input_tokens": 344,
+                "output_tokens": 361,
+                "total_tokens": 705
+            },
+            "user2": {
+                "input_tokens": 659,
+                "output_tokens": 713,
+                "total_tokens": 1372
+            }
+        },
+        "2025-08-25": {
+            "user2": {
+                "input_tokens": 7666,
+                "output_tokens": 1590,
+                "total_tokens": 9256
+            },
+            "Bhavani": {
+                "input_tokens": 713,
+                "output_tokens": 969,
+                "total_tokens": 1682
+            }
+        }
+    },
+    "overall_usage": {
+        "Anshu": {
+            "input_tokens": 344,
+            "output_tokens": 361,
+            "total_tokens": 705
+        },
+        "user2": {
+            "input_tokens": 8325,
+            "output_tokens": 2303,
+            "total_tokens": 10628
+        },
+        "Bhavani": {
+            "input_tokens": 713,
+            "output_tokens": 969,
+            "total_tokens": 1682
+        }
+    }
+}

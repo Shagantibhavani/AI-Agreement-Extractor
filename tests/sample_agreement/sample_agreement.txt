@@ -1,0 +1,24 @@
+This Agreement is made between Innovate Corp and Solutions LLC.
+
+This agreement is effective as of January 1, 2023.
+
+1. Services.
+Solutions LLC will provide software development services to Innovate Corp.
+
+2. Payment Terms.
+Innovate Corp will pay Solutions LLC $10,000 per month.
+
+3. Term.
+This agreement will begin on the effective date and continue for one year.
+
+4. Termination.
+Either party may terminate this agreement with 30 days written notice.
+
+5. Confidentiality.
+Both parties agree to keep all proprietary information confidential.
+
+6. Limitation of Liability.
+Neither party shall be liable for any indirect, special, or consequential damages.
+
+7. Entire Agreement.
+This document constitutes the entire agreement between the parties.

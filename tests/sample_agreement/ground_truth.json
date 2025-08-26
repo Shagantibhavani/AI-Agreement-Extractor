@@ -1,0 +1,18 @@
+{
+  "parties": [
+    "Innovate Corp",
+    "Solutions LLC"
+  ],
+  "effective_date": "2023-01-01",
+  "termination_clause": "Either party may terminate this agreement with 30 days written notice.",
+  "payment_terms": "Innovate Corp will pay Solutions LLC $10,000 per month.",
+  "confidentiality_obligations": "Both parties agree to keep all proprietary information confidential.",
+  "risky_clauses": [
+    {
+      "clause_text": "Neither party shall be liable for any indirect, special, or consequential damages.",
+      "explanation": "This clause limits the liability of both parties, preventing recovery of significant categories of damages. This could be risky for the party relying on the other's services if substantial indirect losses occur due to failure."
+    }
+  ],
+  "vendor": "Solutions LLC",
+  "receiver": "Innovate Corp"
+}
