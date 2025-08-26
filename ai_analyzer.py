@@ -13,7 +13,7 @@ def analyze_text_with_llm(text, api_key):
     if not genai:
         raise ImportError("google-generativeai is not installed. Please install it with 'pip install google-generativeai'")
 
-    genai.configure(api_key="AIzaSyAA7Lcm03baxHKi7vy9Ebgj7usfypC5yqQ")
+    genai.configure(api_key= "Replace with your actual api")
 
     model = genai.GenerativeModel('gemini-1.5-flash')
 
@@ -116,3 +116,4 @@ def analyze_text_with_llm(text, api_key):
     return {
         "text": json.dumps(extracted_data, indent=2)
     }
+
